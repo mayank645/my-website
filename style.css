@@ -16,7 +16,8 @@ body{
      text-align: center;
    }
    .motivation-img{
-     border: 5px solid white;
+     border: 5px solid white,url("./IMG_20241107_164017");
      width: 100%;
+       
      
    }
